@@ -14,7 +14,28 @@ This repository contains the following files:
 - Download files by clicking the "Download" button.
 
 ## 📢 About This Project
-This project was created for [course name or purpose]. It focuses on [brief explanation of topic]. 
+This project was created as part of a Project Management course at Indiana University. It focused on the development of InterNest, a mobile app designed to support international students through personalized mental health support and social connection.
+
+Beyond the technical deliverables, the project served as a hands-on simulation of real-world project management. It reinforced our understanding of core principles like stakeholder management, team coordination, communication planning, risk mitigation, and budget control. From kickoff to closeout, we applied structured methodologies to guide each phase of the project, helping us grow as adaptable, user-focused, and collaborative project managers.
+
+## 🛠 Development Process
+Phased approach:
+
+Initiation – Project kickoff and vision setup
+
+Planning – Research, budgeting, UI/UX, team formation
+
+Execution – App development and testing
+
+Monitoring – Surveys, analytics, and user feedback
+
+Closeout – Final delivery and launch
+
+## 📚 Lessons Learned
+
+- Strong teamwork and user-centric design are key  
+- Continuous feedback improves outcomes  
+- Data-driven iteration leads to better results  
 
 ## 👩‍💻 Contributors
 - Meghana Darla
